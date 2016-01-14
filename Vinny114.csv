@@ -1,0 +1,617 @@
+personName,people,title,side,day,dayDate,dayName,holiday,PTO,out,project1,project1Value,project2,project2Value,project3,project3Value,project4,project4Value,project5,project5Value,project6,project6Value,value
+KevinMcAfee,1,Director,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,2,1/19,Tuesday,no,no,no,Audi,0.25,Anheuser Busch,0.25,Catepillar,0.5,Project name,0,Project name,0,Project name,0,1
+KevinMcAfee,1,Director,Strategy,3,1/20,Wednesday,no,no,no,Audi,0.25,Anheuser Busch,0.25,Catepillar,0.5,Project name,0,Project name,0,Project name,0,1
+KevinMcAfee,1,Director,Strategy,4,1/21,Thursday,no,no,no,Audi,0.25,Anheuser Busch,0.25,Catepillar,0.5,Project name,0,Project name,0,Project name,0,1
+KevinMcAfee,1,Director,Strategy,5,1/22,Friday,no,no,no,Audi,0.25,Anheuser Busch,0.25,Catepillar,0.5,Project name,0,Project name,0,Project name,0,1
+KevinMcAfee,1,Director,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KevinMcAfee,1,Director,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,2,1/19,Tuesday,no,no,no,Visa,0.25,Jordan,0.25,Activision,0.25,Nike,0,Project name,0,Project name,0,0.75
+DougStewart,2,Director,Strategy,3,1/20,Wednesday,no,no,no,Visa,0.25,Jordan,0.25,Activision,0.25,Nike,0,Project name,0,Project name,0,0.75
+DougStewart,2,Director,Strategy,4,1/21,Thursday,no,no,no,Visa,0.25,Jordan,0.25,Activision,0.25,Nike,0,Project name,0,Project name,0,0.75
+DougStewart,2,Director,Strategy,5,1/22,Friday,no,no,no,Visa,0.25,Jordan,0.25,Activision,0.25,Nike,0,Project name,0,Project name,0,0.75
+DougStewart,2,Director,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DougStewart,2,Director,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,2,1/19,Tuesday,no,no,no,Activision,0.25,Jordan,0.25,Levis,0.25,Caterpillar (BD),0.5,Project name,0,Project name,0,1.25
+NamNguyen,3,Director,Strategy,3,1/20,Wednesday,no,no,no,Activision,0.25,Jordan,0.25,Levis,0.25,Caterpillar (BD),0.5,Project name,0,Project name,0,1.25
+NamNguyen,3,Director,Strategy,4,1/21,Thursday,no,no,no,Activision,0.25,Jordan,0.25,Levis,0.25,Caterpillar (BD),0.5,Project name,0,Project name,0,1.25
+NamNguyen,3,Director,Strategy,5,1/22,Friday,no,no,no,Activision,0.25,Jordan,0.25,Levis,0.25,Caterpillar (BD),0.5,Project name,0,Project name,0,1.25
+NamNguyen,3,Director,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NamNguyen,3,Director,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,2,1/19,Tuesday,no,no,no,Audi,0.5,Visa,0.5,Project name,0,Project name,0,Project name,0,Project name,0,1
+SeanQuinn,4,Sr. Strategist,Strategy,3,1/20,Wednesday,no,no,no,Audi,0.5,Visa,0.5,Project name,0,Project name,0,Project name,0,Project name,0,1
+SeanQuinn,4,Sr. Strategist,Strategy,4,1/21,Thursday,no,no,no,Audi,0.5,Visa,0.5,Project name,0,Project name,0,Project name,0,Project name,0,1
+SeanQuinn,4,Sr. Strategist,Strategy,5,1/22,Friday,no,no,no,Audi,0.5,Visa,0.5,Project name,0,Project name,0,Project name,0,Project name,0,1
+SeanQuinn,4,Sr. Strategist,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SeanQuinn,4,Sr. Strategist,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,2,1/19,Tuesday,no,no,no,Caterpillar (BD),0.75,Internal: Process ,0.25,Project name,0,Project name,0,Project name,0,Project name,0,1
+KatrinaYulo,5,Sr. Strategist,Strategy,3,1/20,Wednesday,no,no,no,Caterpillar (BD),0.75,Internal: Process ,0.25,Project name,0,Project name,0,Project name,0,Project name,0,1
+KatrinaYulo,5,Sr. Strategist,Strategy,4,1/21,Thursday,no,no,no,Caterpillar (BD),0.75,Internal: Process ,0.25,Project name,0,Project name,0,Project name,0,Project name,0,1
+KatrinaYulo,5,Sr. Strategist,Strategy,5,1/22,Friday,no,no,no,Caterpillar (BD),0.75,Internal: Process ,0.25,Project name,0,Project name,0,Project name,0,Project name,0,1
+KatrinaYulo,5,Sr. Strategist,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KatrinaYulo,5,Sr. Strategist,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,2,1/19,Tuesday,no,no,no,Audi: Digital Signage,0.25,Audi: MYCO,0.25,Audi: Expreience,1,Project name,0,Project name,0,Project name,0,1.5
+GabrielaBrigido,6,Content Str.,Strategy,3,1/20,Wednesday,no,no,no,Audi: Digital Signage,0.25,Audi: MYCO,0.25,Audi: Expreience,1,Project name,0,Project name,0,Project name,0,1.5
+GabrielaBrigido,6,Content Str.,Strategy,4,1/21,Thursday,no,no,no,Audi: Digital Signage,0.25,Audi: MYCO,0.25,Audi: Expreience,1,Project name,0,Project name,0,Project name,0,1.5
+GabrielaBrigido,6,Content Str.,Strategy,5,1/22,Friday,no,no,no,Audi: Digital Signage,0.25,Audi: MYCO,0.25,Audi: Expreience,1,Project name,0,Project name,0,Project name,0,1.5
+GabrielaBrigido,6,Content Str.,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+GabrielaBrigido,6,Content Str.,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,2,1/19,Tuesday,no,no,no,Activision,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+ThijsvandeWouw,7,Social Str.,Strategy,3,1/20,Wednesday,no,no,no,Activision,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+ThijsvandeWouw,7,Social Str.,Strategy,4,1/21,Thursday,no,no,no,Activision,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+ThijsvandeWouw,7,Social Str.,Strategy,5,1/22,Friday,no,no,no,Activision,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+ThijsvandeWouw,7,Social Str.,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ThijsvandeWouw,7,Social Str.,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,2,1/19,Tuesday,no,no,no,Levis,0.75,Visa,0.25,Project name,0,Project name,0,Project name,0,Project name,0,1
+KathleenNgo,8,Social Str.,Strategy,3,1/20,Wednesday,no,no,no,Levis,0.75,Visa,0.25,Project name,0,Project name,0,Project name,0,Project name,0,1
+KathleenNgo,8,Social Str.,Strategy,4,1/21,Thursday,no,no,no,Levis,0.75,Visa,0.25,Project name,0,Project name,0,Project name,0,Project name,0,1
+KathleenNgo,8,Social Str.,Strategy,5,1/22,Friday,no,no,no,Levis,0.75,Visa,0.25,Project name,0,Project name,0,Project name,0,Project name,0,1
+KathleenNgo,8,Social Str.,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KathleenNgo,8,Social Str.,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,2,1/19,Tuesday,no,no,no,Caterpillar (BD),0.5,Internal: Workshop Document,0.5,Project name,0,Project name,0,Project name,0,Project name,0,1
+CharlotteTerrien,9,Design Str.,Strategy,3,1/20,Wednesday,no,no,no,Caterpillar (BD),0.5,Internal: Workshop Document,0.5,Project name,0,Project name,0,Project name,0,Project name,0,1
+CharlotteTerrien,9,Design Str.,Strategy,4,1/21,Thursday,no,no,no,Caterpillar (BD),0.5,Internal: Workshop Document,0.5,Project name,0,Project name,0,Project name,0,Project name,0,1
+CharlotteTerrien,9,Design Str.,Strategy,5,1/22,Friday,no,no,no,Caterpillar (BD),0.5,Internal: Workshop Document,0.5,Project name,0,Project name,0,Project name,0,Project name,0,1
+CharlotteTerrien,9,Design Str.,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlotteTerrien,9,Design Str.,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,2,1/19,Tuesday,no,no,no,Internal: Cultural Timeline & Trends,0.25,Internal: Process Documentation,0.25,Internal: Calendar Tool,0.5,Project name,0,Project name,0,Project name,0,1
+CharlesPerrault,10,Design Str.,Strategy,3,1/20,Wednesday,no,no,no,Internal: Cultural Timeline & Trends,0.25,Internal: Process Documentation,0.25,Internal: Calendar Tool,0.5,Project name,0,Project name,0,Project name,0,1
+CharlesPerrault,10,Design Str.,Strategy,4,1/21,Thursday,no,no,no,Internal: Cultural Timeline & Trends,0.25,Internal: Process Documentation,0.25,Internal: Calendar Tool,0.5,Project name,0,Project name,0,Project name,0,1
+CharlesPerrault,10,Design Str.,Strategy,5,1/22,Friday,no,no,no,Internal: Cultural Timeline & Trends,0.25,Internal: Process Documentation,0.25,Internal: Calendar Tool,0.5,Project name,0,Project name,0,Project name,0,1
+CharlesPerrault,10,Design Str.,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+CharlesPerrault,10,Design Str.,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,2,1/19,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,3,1/20,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,4,1/21,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,5,1/22,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+KellyAdachi,11,Strategist,Strategy,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,2,1/19,Tuesday,no,no,no,Audi,0.5,Polaris,0.5,Jordan,0.15,Project name,0,Project name,0,Project name,0,1.15
+FaithBolliger,12,Director,UX,3,1/20,Wednesday,no,no,no,Audi,0.5,Polaris,0.5,Jordan,0.15,Project name,0,Project name,0,Project name,0,1.15
+FaithBolliger,12,Director,UX,4,1/21,Thursday,no,no,no,Audi,0.5,Polaris,0.5,Jordan,0.15,Project name,0,Project name,0,Project name,0,1.15
+FaithBolliger,12,Director,UX,5,1/22,Friday,no,no,no,Audi,0.5,Polaris,0.5,Jordan,0.15,Project name,0,Project name,0,Project name,0,1.15
+FaithBolliger,12,Director,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+FaithBolliger,12,Director,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,2,1/19,Tuesday,no,no,no,Audi,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+RobertGirvin,13,Assoc. UX Design Director,UX,3,1/20,Wednesday,no,no,no,Audi,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+RobertGirvin,13,Assoc. UX Design Director,UX,4,1/21,Thursday,no,no,no,Audi,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+RobertGirvin,13,Assoc. UX Design Director,UX,5,1/22,Friday,no,no,no,Audi,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+RobertGirvin,13,Assoc. UX Design Director,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RobertGirvin,13,Assoc. UX Design Director,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,2,1/19,Tuesday,no,yes,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,3,1/20,Wednesday,no,yes,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,4,1/21,Thursday,no,yes,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,5,1/22,Friday,no,yes,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,8,1/25,Monday,no,yes,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,9,1/26,Tuesday,no,yes,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,10,1/27,Wednesday,no,yes,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,11,1/28,Thursday,no,yes,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristophFriess,14,Sr. UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,2,1/19,Tuesday,no,no,no,Audi: Experience,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+DenisSergeychik,15,Sr. UX,UX,3,1/20,Wednesday,no,no,no,Audi: Experience,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+DenisSergeychik,15,Sr. UX,UX,4,1/21,Thursday,no,no,no,Audi: Experience,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+DenisSergeychik,15,Sr. UX,UX,5,1/22,Friday,no,no,no,Audi: Experience,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+DenisSergeychik,15,Sr. UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+DenisSergeychik,15,Sr. UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,2,1/19,Tuesday,no,no,no,Jordan,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+RickyNavarro,16,UX,UX,3,1/20,Wednesday,no,no,no,Jordan,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+RickyNavarro,16,UX,UX,4,1/21,Thursday,no,no,no,Jordan,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+RickyNavarro,16,UX,UX,5,1/22,Friday,no,no,no,Jordan,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+RickyNavarro,16,UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+RickyNavarro,16,UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,2,1/19,Tuesday,no,no,no,Polaris,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+NoahConk,17,UX,UX,3,1/20,Wednesday,no,no,no,Polaris,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+NoahConk,17,UX,UX,4,1/21,Thursday,no,no,no,Polaris,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+NoahConk,17,UX,UX,5,1/22,Friday,no,no,no,Polaris,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+NoahConk,17,UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+NoahConk,17,UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,2,1/19,Tuesday,no,no,no,Activision,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+SimonDavey,18,UX,UX,3,1/20,Wednesday,no,no,no,Activision,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+SimonDavey,18,UX,UX,4,1/21,Thursday,no,no,no,Activision,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+SimonDavey,18,UX,UX,5,1/22,Friday,no,no,no,Activision,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+SimonDavey,18,UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+SimonDavey,18,UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,2,1/19,Tuesday,no,no,no,Polaris,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+ChristineFoo,19,Assoc. UX,UX,3,1/20,Wednesday,no,no,no,Polaris,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+ChristineFoo,19,Assoc. UX,UX,4,1/21,Thursday,no,no,no,Polaris,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+ChristineFoo,19,Assoc. UX,UX,5,1/22,Friday,no,no,no,Polaris,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+ChristineFoo,19,Assoc. UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+ChristineFoo,19,Assoc. UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,2,1/19,Tuesday,no,no,no,Audi: MyAudi,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+JessicaAaron,20,Assoc. UX,UX,3,1/20,Wednesday,no,no,no,Audi: MyAudi,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+JessicaAaron,20,Assoc. UX,UX,4,1/21,Thursday,no,no,no,Audi: MyAudi,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+JessicaAaron,20,Assoc. UX,UX,5,1/22,Friday,no,no,no,Audi: MyAudi,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+JessicaAaron,20,Assoc. UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+JessicaAaron,20,Assoc. UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,2,1/19,Tuesday,no,no,no,Audi: Outlet,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+MaxineKim,21,Assoc. UX,UX,3,1/20,Wednesday,no,no,no,Audi: Outlet,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+MaxineKim,21,Assoc. UX,UX,4,1/21,Thursday,no,no,no,Audi: Outlet,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+MaxineKim,21,Assoc. UX,UX,5,1/22,Friday,no,no,no,Audi: Outlet,1,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,1
+MaxineKim,21,Assoc. UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+MaxineKim,21,Assoc. UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,1,1/18,Monday,yes,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,2,1/19,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,3,1/20,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,4,1/21,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,5,1/22,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,6,1/23,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,7,1/24,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,8,1/25,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,9,1/26,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,10,1/27,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,11,1/28,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,12,1/29,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,13,1/30,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,14,1/31,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,15,2/1,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,16,2/2,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,17,2/3,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,18,2/4,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,19,2/5,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,20,2/6,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,21,2/7,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,22,2/8,Monday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,23,2/9,Tuesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,24,2/10,Wednesday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,25,2/11,Thursday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,26,2/12,Friday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,27,2/13,Saturday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0
+TateSager,22,Assoc. UX,UX,28,2/14,Sunday,no,no,no,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,Project name,0,0

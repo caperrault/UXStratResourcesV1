@@ -113,13 +113,13 @@
       //    legendElementWidth = gridSize*2,
       //    buckets = 9,
       //    colors = ["#ffffd9","#edf8b1","#c7e9b4","#7fcdbb","#41b6c4","#1d91c0","#225ea8","#253494","#081d58"], // alternatively colorbrewer.YlGnBu[9]
-          side = ["STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY", "UX", "UX", "UX", "UX", "UX", "UX", "UX", "UX"],
-          roles = ["Director", "Director", "Director", "Director","Sr Strategist","Sr Strategist","Content Str","Social Str","Social Str","Design Str","Design Str","Strategist","Strategist","Director","Sr UX","Sr UX","UX","UX","UX","Assoc UX","Assoc UX","Assoc UX"],
-          ppl = ["Kevin McAfee","Doug Stewart","Mathew Swenson","Nam Nguyen","Sean Quinn","Katrina Yulo","Gabriela Brigido","Thijs van de Wouw","Kathleen Ngo", "Charlotte Terrien", "Charles Perrault","Jaime Harrelson","Kelly Adachi","Faith Bolliger","Christoph Friess","Denis Sergeychik","Ricky Navarro","Noah Conk","Simon Davey","Christine Foo","Jessica Aaron","Maxine Kim"],
+          side = ["STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY","STRATEGY", "UX", "UX", "UX", "UX", "UX", "UX", "UX", "UX", "UX", "UX"],
+          roles = ["Director", "Director", "Director","Sr Strategist","Sr Strategist","Content Str","Social Str","Social Str","Design Str","Design Str","Strategist","Director","Director","Sr UX","Sr UX","UX","UX","UX","Assoc UX","Assoc UX","Assoc UX","Assoc UX"],
+          ppl = ["Kevin McAfee","Doug Stewart","Nam Nguyen","Sean Quinn","Katrina Yulo","Gabriela Brigido","Thijs van de Wouw","Kathleen Ngo", "Charlotte Terrien", "Charles Perrault","Kelly Adachi","Faith Bolliger", "Robert Girvin","Christoph Friess","Denis Sergeychik","Ricky Navarro","Noah Conk","Simon Davey","Christine Foo","Jessica Aaron","Maxine Kim","Tate Sager"],
           days = ["M", "T", "W", "T", "F", "S", "S", "M", "T", "W", "T", "F", "S", "S", "M", "T", "W", "T", "F", "S", "S", "M", "T", "W", "T", "F", "S", "S"];
-          dates = ["12/7", "12/8", "12/9", "12/10", "12/11", "12/12", "12/13", "12/14", "12/15", "12/16", "12/17", "12/18", "12/19", "12/20", "12/21", "12/22", "12/23", "12/24", "12/25", "12/26", "12/27","12/28", "12/29", "12/30", "12/31", "1/1", "1/2", "1/3"];
-          datasets = ["Data1203.csv", "data2.csv"],
-          iToday = 3;
+          dates = ["1/18","1/19","1/20","1/21","1/22","1/23","1/24","1/25","1/26","1/27","1/28","1/29","1/30","1/31","2/1","2/2","2/3","2/4","2/5","2/6","2/7","2/8","2/9","2/10","2/11","2/12","2/13","2/14"];
+          datasets = ["Vinny114.csv", "data2.csv"],
+          iToday = 1;
 
           // //grabbing todays date mm/dd
           // var today = new Date();
@@ -163,17 +163,17 @@
 
           svg.append("line")
              .attr("x1", - gridSize * 7 - 10)
-             .attr("y1", gridSize * 15 - 10)
+             .attr("y1", gridSize * 13 - 10)
              .attr("x2", width - gridSize/2 - 5)
-             .attr("y2", gridSize * 15 - 10)
+             .attr("y2", gridSize * 13 - 10)
              .style("stroke", "black")
              .style("stroke-width", 2);
 
          svg.append("line")
             .attr("x1", - gridSize * 7 - 10)
-            .attr("y1", gridSize * 16 - 8)
+            .attr("y1", gridSize * 14 - 8)
             .attr("x2", width - gridSize/2 - 5)
-            .attr("y2", gridSize * 16 - 8)
+            .attr("y2", gridSize * 14 - 8)
             .style("stroke", "black")
             .style("stroke-width", 0.5);
 
@@ -194,6 +194,7 @@
             project3: d.project3,
             project3Value: +d.project3Value,
             value: +d.value,
+            PTO: d.PTO
           };
         },
         function(error, data) {
@@ -211,7 +212,7 @@
         //      .attr("x", function(d) { return (iToday - 1) * gridSize + 1; })
         //      //.attr("y", function(d) { return (d.people - 1) * gridSize ; })
         //      .attr("y", function(d,i) {
-        //        if (i<364) {return (d.people - 1) * gridSize + gridSize/2;}
+        //        if (i<308) {return (d.people - 1) * gridSize + gridSize/2;}
         //        else {return d.people * gridSize + gridSize/2 + gridSize;}
         //      })
         //      .attr("width", gridSize - 1)
@@ -223,7 +224,7 @@
           cards.enter().append("circle")
               .attr("cx", function(d) { return (d.day - 1) * gridSize + gridSize/4 + 5; })
               .attr("cy", function(d,i) {
-                if (i<364) {return (d.people - 1) * gridSize + gridSize/2 + gridSize/4 + 5 ;}
+                if (i<308) {return (d.people - 1) * gridSize + gridSize/2 + gridSize/4 + 5 ;}
                 else {return d.people * gridSize + gridSize/2 + gridSize + gridSize/4 + 5 + gridSize;}
               })
               .attr("r", gridSize/8)
@@ -232,17 +233,24 @@
                 else {return "bordered"}
               })
               .style("fill", function(d) {
-                if (d.value < 0.25 &&  d.dayName !== "Saturday" && d.dayName !== "Sunday" && d.holiday === "no") {return "#00B49B";}//green
+                if (d.value < 0.25 &&  d.dayName !== "Saturday" && d.dayName !== "Sunday" && d.holiday === "no" && d.PTO === "no") {return "#00B49B";}//green
                 else if (d.dayName === "Saturday" || d.dayName === "Sunday") {return "white";}
                 else if (d.holiday === "yes") {return "lightGray";}
-                else { return "#D46D7A"; }//red
-              });
+                else if (d.PTO === "yes") {return "#397EA6";}
+                else if (d.value <= 1) { return "#D46D7A"; }//red
+                else {return "#B42B67"; }
+              })
+            //   .style("stroke", function(d) {
+            //     if (d.value > 1) {return "darkGreen"; }
+            //   }
+            // )
+            //   .style("stroke-width", 4);
 
           //top right square
           cards.enter().append("circle")
               .attr("cx", function(d) { return (d.day - 1) * gridSize + gridSize/2 + gridSize/4 - 5; })
               .attr("cy", function(d,i) {
-                if (i<364) {return (d.people - 1) * gridSize + gridSize/2 + gridSize/4 + 5 ;}
+                if (i<308) {return (d.people - 1) * gridSize + gridSize/2 + gridSize/4 + 5 ;}
                 else {return d.people * gridSize + gridSize/2 + gridSize + gridSize/4 + 5 + gridSize;}
               })
               .attr("r", gridSize/8)
@@ -251,17 +259,24 @@
                 else {return "bordered"}
               })
               .style("fill", function(d) {
-                if (d.value < 0.5 &&  d.dayName !== "Saturday" && d.dayName !== "Sunday" && d.holiday === "no") {return "#00B49B";}
+                if (d.value < 0.5 &&  d.dayName !== "Saturday" && d.dayName !== "Sunday" && d.holiday === "no" && d.PTO === "no") {return "#00B49B";}
                 else if (d.dayName === "Saturday" || d.dayName === "Sunday") {return "white";}
                 else if (d.holiday === "yes") {return "lightGray";}
-                else { return "#D46D7A"; }
-              });
+                else if (d.PTO === "yes") {return "#397EA6";}
+                else if (d.value <= 1) { return "#D46D7A"; }//red
+                else {return "#B42B67"; }//purple
+              })
+            //   .style("stroke", function(d) {
+            //     if (d.value > 1) {return "darkGreen"; }
+            //   }
+            // )
+            //   .style("stroke-width", 4);
 
           //bottom left square
           cards.enter().append("circle")
               .attr("cx", function(d) { return (d.day - 1) * gridSize + gridSize/4 + 5; })
               .attr("cy", function(d,i) {
-                if (i<364) {return (d.people - 0.5) * gridSize + gridSize/2 + gridSize/4 - 5 ;}
+                if (i<308) {return (d.people - 0.5) * gridSize + gridSize/2 + gridSize/4 - 5 ;}
                 else {return (d.people - 1) * gridSize + gridSize * 1.5 + gridSize/2 + gridSize + gridSize/4 - 5 + gridSize;}
               })
               .attr("r", gridSize/8)
@@ -270,17 +285,24 @@
                 else {return "bordered"}
               })
               .style("fill", function(d) {
-                if (d.value < 0.75 && d.dayName !== "Saturday" && d.dayName !== "Sunday" && d.holiday === "no") {return "#00B49B";}
+                if (d.value < 0.75 && d.dayName !== "Saturday" && d.dayName !== "Sunday" && d.holiday === "no" && d.PTO === "no") {return "#00B49B";}
                 else if (d.dayName === "Saturday" || d.dayName === "Sunday") {return "white";}
                 else if (d.holiday === "yes") {return "lightGray";}
-                else { return "#D46D7A"; }
-              });
+                else if (d.PTO === "yes") {return "#397EA6";}
+                else if (d.value <= 1) { return "#D46D7A"; }//red
+                else {return "#B42B67"; }
+              })
+            //   .style("stroke", function(d) {
+            //     if (d.value > 1) {return "darkGreen"; }
+            //   }
+            // )
+            //   .style("stroke-width", 4);
 
           //bottom right square
           cards.enter().append("circle")
               .attr("cx", function(d) { return (d.day - 1) * gridSize + gridSize/2 + gridSize/4 - 5; })
             .attr("cy", function(d,i) {
-              if (i<364) {return (d.people - 0.5) * gridSize + gridSize/2 + gridSize/4 - 5 ;}
+              if (i<308) {return (d.people - 0.5) * gridSize + gridSize/2 + gridSize/4 - 5 ;}
               else {return (d.people - 1) * gridSize + gridSize * 1.5 + gridSize/2 + gridSize + gridSize/4 - 5  + gridSize;}
             })
               .attr("r", gridSize/8)
@@ -289,18 +311,25 @@
                 else {return "bordered"}
               })
               .style("fill", function(d) {
-                if (d.value < 1 &&  d.dayName !== "Saturday" && d.dayName !== "Sunday" && d.holiday === "no") {return "#00B49B";}
+                if (d.value < 1 &&  d.dayName !== "Saturday" && d.dayName !== "Sunday" && d.holiday === "no" && d.PTO === "no") {return "#00B49B";}
                 else if (d.dayName === "Saturday" || d.dayName === "Sunday") {return "white";}
                 else if (d.holiday === "yes") {return "lightGray";}
-                else { return "#D46D7A"; }
-              });
+                else if (d.PTO === "yes") {return "#397EA6";}
+                else if (d.value <= 1) { return "#D46D7A"; }//red
+                else {return "#B42B67"; }
+              })
+            //   .style("stroke", function(d) {
+            //     if (d.value > 1) {return "darkGreen"; }
+            //   }
+            // )
+            //   .style("stroke-width", 4);
 
           //overlay for tooltip
           cards.enter().append("rect")
               .attr("x", function(d) { return (d.day - 1) * gridSize ; })
               .attr("y", function(d,i) {
-                if (i<364) {return (d.people - 1) * gridSize + gridSize/2;}
-                else {return d.people * gridSize + gridSize/2 + gridSize;}
+                if (i<308) {return (d.people - 1) * gridSize + gridSize/2;}
+                else {return d.people * gridSize + gridSize/2 + gridSize + gridSize;}
               })
               .attr("class", "topRect")
               .attr("width", gridSize)
@@ -308,7 +337,7 @@
               .style("fill", "white")
               .style("cursor", "pointer")
               .style("display", function(d) {
-                if (d.dayName === "Saturday" || d.dayName === "Sunday" || d.holiday === "yes") {return "none";}
+                if (d.dayName === "Saturday" || d.dayName === "Sunday" || d.holiday === "yes" || d.PTO === "yes") {return "none";}
                 else {return "inline";}
               })
               .on("mouseover", function(d,i) {
@@ -323,8 +352,8 @@
                       if (d.project1Value !== 0)  {allocation[0] = d.project1 + ": " + d.project1Value * 100 + "%";} else {allocation[0] = "";};
                       if (d.project2Value !== 0)  {allocation[1] = d.project2 + ": " + d.project2Value * 100 + "%";} else {allocation[1] = "";};
                       if (d.project3Value !== 0)  {allocation[2] = d.project3 + ": " + d.project3Value * 100 + "%";} else {allocation[2] = "";};
-                      if (d.value !== 1)  {allocation[4] = (1-d.value)*100 + "% free";} else {allocation[4] = d.value*100 + "% allocated";};
-                      if (d.value !== 1) { allocation4Color = "#00B49B";} else { allocation4Color = "#D46D7A";};
+                      if (d.value < 1)  {allocation[4] = d3.round((1-d.value)*100) + "% free";} else {allocation[4] = d3.round(d.value*100) + "% allocated";};
+                      if (d.value < 1) { allocation4Color = "#00B49B";} else if (d.value === 1) { allocation4Color = "#D46D7A";} else { allocation4Color = "#B42B67";};
 
                       div1.html(
                         "<div style=margin-left:10px;margin-top:10px> <img class=top src=" + d.personName + ".jpg width=50 > <div style=float:right> <p style=font-weight:bold;padding-right:10px;font-size:16px;margin-top:0px>" + d.dayName + " " + d.dayDate + " </p> <p style=padding-right:10px;margin-top:-15px;text-align:left;color:" + allocation4Color + ">" + allocation[4] + " </p> </div> </div> <p style=padding-left:10px;margin-top:20px;margin-bottom:-5px> " + allocation[0] + " </p> <p style=padding-left:10px;margin-bottom:-5px> " + allocation[1] + " </p> <p style=padding-left:10px> " + allocation[2] + " </p><br>"
@@ -341,7 +370,7 @@
                       div1.style("left", (d3.event.pageX) + "px")
                       .style("top", (d3.event.pageY-10) + "px");
 
-                      console.log("allocation4Color", allocation4Color);
+                      console.log("d.value", d.value);
 
                })
               .on("mouseout", function () {
@@ -359,11 +388,11 @@
                     .attr("x", -gridSize * 7 )
                   //  .attr("y", function (d, i) { return (i-1) * gridSize - 4; })
                     .attr("y", function (d, i) {
-                    if (i<13) { return -gridSize - 11;}
-                    else { return gridSize * 15 - 11; }
+                    if (i<11) { return -gridSize - 14;}
+                    else { return gridSize * 13 - 14; }
                     })
                     .style("display", function(d,i) {
-                      if (i===0 || i===13) {return "inline";}
+                      if (i===0 || i===11) {return "inline";}
                       else {return "none";}
                     })
                   //  .style("text-anchor", "end")
@@ -377,7 +406,7 @@
                     .text(function (d) { return d; })
                     .attr("x", -gridSize*7 )
                     .attr("y", function (d, i) {
-                    if (i<13) { return i * gridSize + gridSize/2; }
+                    if (i<11) { return i * gridSize + gridSize/2; }
                     else { return (i + 1) * gridSize + gridSize/2 + gridSize + gridSize; }
                     })
                     //.attr("y", function (d, i) { return i * gridSize - 4; })
@@ -392,7 +421,7 @@
                     .text(function (d) { return d; })
                     .attr("x", - gridSize*3 )
                     .attr("y", function (d, i) {
-                    if (i<13) { return i * gridSize + gridSize/2 ; }
+                    if (i<11) { return i * gridSize + gridSize/2 ; }
                     else { return (i + 1) * gridSize + gridSize/2 + gridSize + gridSize; }
                     })
                   //  .style("text-anchor", "end")
@@ -446,7 +475,7 @@
                   .enter().append("text")
                     .text(function(d) { return d; })
                     .attr("x", function(d, i) { return i * gridSize; })
-                    .attr("y", gridSize * 15 + gridSize/2)
+                    .attr("y", gridSize * 13 + gridSize/2)
                     .style("display", function (d,i) {
                       if (i === 0 || i === 4 || i === 7 || i === 11 || i === 14 || i === 18 || i === 21 || i === 25) { return "inline";}
                       else { return "none";}
@@ -468,7 +497,7 @@
                           else {return d;}
                         })
                     .attr("x", function(d, i) { return i * gridSize; })
-                    .attr("y", gridSize * 16 + gridSize/2 )
+                    .attr("y", gridSize * 14 + gridSize/2 )
                     .style("display", function (d,i) {
                       if (i === 5 || i === 6 || i === 12 || i === 13 || i === 19 || i === 20 || i === 26 || i === 27) { return "none";}
                       else { return "inline";}
@@ -497,10 +526,7 @@
          //  cards.exit().remove();
 
           var legend = svg.selectAll(".legend")
-               .data([1,,0.75,,0.5,,0.25,,0], function(d) { return d; });
-
-          var legend = svg.selectAll(".legend")
-               .data([1,0.75,0.5,0.25,0,2], function(d) { return d; });
+               .data(["Overallocated",1,0.75,0.5,0.25,0,"Paid time off","Holiday"], function(d) { return d; });
 
           legend.enter().append("g")
                .attr("class", "legend");
@@ -508,56 +534,64 @@
         //top left corner
         legend.append("circle")
         .attr("cy", - gridSize * 2 - 2)
-        .attr("cx", function (d, i) { return (i + 7) * 2 * gridSize + gridSize/4 + 5;})
+        .attr("cx", function (d, i) { return (i + 5) * 2 * gridSize + gridSize/4 + 5;})
         .attr("r", gridSize/8)
       //  .attr("class", "bordered")
         .style("fill", function(d,i) {
-          if (i > 4) {return "lightGray";}
-          if (i > 3) {return "#00B49B";}//green
+          if (i < 1) {return "#B42B67";}//purple
+          if (i === 5) {return "#00B49B";}//green
+          if (i === 6) {return "#397EA6";}//blue
+          if (i === 7) {return "lightGray";}
           else { return "#D46D7A"; }//red
         });
 
         //top right corner
         legend.append("circle")
         .attr("cy", - gridSize * 2 - 2)
-        .attr("cx", function (d, i) { return (i + 7) * 2 * gridSize + gridSize/4 + gridSize/2 - 5;})
+        .attr("cx", function (d, i) { return (i + 5) * 2 * gridSize + gridSize/4 + gridSize/2 - 5;})
         .attr("r", gridSize/8)
         .style("fill", function(d,i) {
-          if (i > 4) {return "lightGray";}
-          if (i > 2) {return "#00B49B";}//green
+          if (i < 1) {return "#B42B67";}//purple
+          if (i === 6) {return "#397EA6";}//blue
+          if (i === 7) {return "lightGray";}
+          if (i > 3) {return "#00B49B";}//green
           else { return "#D46D7A"; }//red
         });
 
         //bottom left corner
         legend.append("circle")
         .attr("cy", - gridSize * 2 - 6 + gridSize/2 - 6)
-        .attr("cx", function (d, i) { return (i + 7) * 2 * gridSize + gridSize/4 + 5;})
+        .attr("cx", function (d, i) { return (i + 5) * 2 * gridSize + gridSize/4 + 5;})
         .attr("r", gridSize/8)
         .style("fill", function(d,i) {
-          if (i > 4) {return "lightGray";}
-          if (i > 1) {return "#00B49B";}//green
+          if (i < 1) {return "#B42B67";}//purple
+          if (i === 6) {return "#397EA6";}//blue
+          if (i === 7) {return "lightGray";}
+          if (i > 2) {return "#00B49B";}//green
           else { return "#D46D7A"; }//red
         });
 
         //bottom right corner
         legend.append("circle")
         .attr("cy", - gridSize * 2 - 6 + gridSize/2 - 6)
-        .attr("cx", function (d, i) { return (i + 7) * 2 * gridSize + gridSize/4 + gridSize/2 - 5 ;})
+        .attr("cx", function (d, i) { return (i + 5) * 2 * gridSize + gridSize/4 + gridSize/2 - 5 ;})
         .attr("r", gridSize/8)
         .style("fill", function(d,i) {
-          if (i > 4) {return "lightGray";}
-          if (i > 0) {return "#00B49B";}//green
+          if (i < 1) {return "#B42B67";}//purple
+          if (i === 6) {return "#397EA6";}//blue
+          if (i === 7) {return "lightGray";}
+          if (i > 1) {return "#00B49B";}//green
           else { return "#D46D7A"; }//red
         });
 
         legend.append("text")
           .attr("class", "mono")
           .text(function (d, i) {
-          if (i > 4) {return "Holiday";}
+          if (i < 1 || i > 5) {return d}
           else {return d*100 + "% allocated";}
         })
           .attr("y", - gridSize * 3 + 14)//23
-          .attr("x", function (d, i) { return (i + 7) * 2 * gridSize + gridSize - 2; })
+          .attr("x", function (d, i) { return (i + 5) * 2 * gridSize + gridSize - 2; })
           .attr("transform", "translate(-6," + gridSize / 1.5 + ")")
           .style("fill", "black")
           .style("opacity", 0.5)
